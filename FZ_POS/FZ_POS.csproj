@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89762ACC-1A34-4B21-9E78-A73AB6DE6543}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FZ_POS</RootNamespace>
+    <AssemblyName>FZ_POS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CircleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdd.Designer.cs">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCusHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCusHistory.Designer.cs">
+      <DependentUpon>FormCusHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomer.Designer.cs">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPay.Designer.cs">
+      <DependentUpon>FormPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShop.Designer.cs">
+      <DependentUpon>FormShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShopMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShopMenu.Designer.cs">
+      <DependentUpon>FormShopMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSideGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSideGroup.Designer.cs">
+      <DependentUpon>FormSideGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fzDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>fzDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fzDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>fzDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVar.cs" />
+    <Compile Include="Meal.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Side.cs" />
+    <Compile Include="ucSideLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSideLabel.Designer.cs">
+      <DependentUpon>ucSideLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCreateAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCreateAccount.Designer.cs">
+      <DependentUpon>UserControlCreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCusCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCusCart.Designer.cs">
+      <DependentUpon>UserControlCusCart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLogin.Designer.cs">
+      <DependentUpon>UserControlLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAdd.Designer.cs">
+      <DependentUpon>UserControlAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlMealMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlMealMenu.Designer.cs">
+      <DependentUpon>UserControlMealMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlOrderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlOrderList.Designer.cs">
+      <DependentUpon>UserControlOrderList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdd.resx">
+      <DependentUpon>FormAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCusHistory.resx">
+      <DependentUpon>FormCusHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomer.resx">
+      <DependentUpon>FormCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPay.resx">
+      <DependentUpon>FormPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShop.resx">
+      <DependentUpon>FormShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShopMenu.resx">
+      <DependentUpon>FormShopMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSideGroup.resx">
+      <DependentUpon>FormSideGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ucSideLabel.resx">
+      <DependentUpon>ucSideLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCreateAccount.resx">
+      <DependentUpon>UserControlCreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCusCart.resx">
+      <DependentUpon>UserControlCusCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLogin.resx">
+      <DependentUpon>UserControlLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAdd.resx">
+      <DependentUpon>UserControlAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlMealMenu.resx">
+      <DependentUpon>UserControlMealMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlOrderList.resx">
+      <DependentUpon>UserControlOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="fzDBDataSet.xsc">
+      <DependentUpon>fzDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="fzDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>fzDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="fzDBDataSet.xss">
+      <DependentUpon>fzDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="fzDBDataSet1.xsc">
+      <DependentUpon>fzDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="fzDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>fzDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="fzDBDataSet1.xss">
+      <DependentUpon>fzDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9554960.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\九宮格.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\哈囉豬.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\哈囉豬.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow %282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\replay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construction.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\191023_Mcdonalds_00_1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\下載.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uber-Gross-Bookings-Trend-Q320-1024x576-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camouflage-iphone-google-user-lottery-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camouflage-iphone-google-user-lottery-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-拷貝.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1571382317-794184124.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

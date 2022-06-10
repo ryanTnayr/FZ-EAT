@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fzDBDataSet" targetNamespace="http://tempuri.org/fzDBDataSet.xsd" xmlns:mstns="http://tempuri.org/fzDBDataSet.xsd" xmlns="http://tempuri.org/fzDBDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="fzDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="fzDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.FZ_POS.Properties.Settings.GlobalReference.Default.fzDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="shop_side_dtlTableAdapter" GeneratorDataComponentClassName="shop_side_dtlTableAdapter" Name="shop_side_dtl" UserDataComponentName="shop_side_dtlTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="fzDBConnectionString (Settings)" DbObjectName="fzDB.dbo.shop_side_dtl" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT side_group_name FROM dbo.shop_side_dtl</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="side_group_name" DataSetColumn="side_group_name" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="fzDBConnectionString (Settings)" DbObjectName="fzDB.dbo.shop_side_dtl" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillBy" GenerateMethods="Fill" GenerateShortCommands="true" GeneratorSourceName="FillBy" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="FillBy">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT DISTINCT side_group_name FROM dbo.shop_side_dtl</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="fzDBDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="fzDBDataSet" msprop:Generator_UserDSName="fzDBDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="shop_side_dtl" msprop:Generator_TableClassName="shop_side_dtlDataTable" msprop:Generator_TableVarName="tableshop_side_dtl" msprop:Generator_RowChangedName="shop_side_dtlRowChanged" msprop:Generator_TablePropName="shop_side_dtl" msprop:Generator_RowDeletingName="shop_side_dtlRowDeleting" msprop:Generator_RowChangingName="shop_side_dtlRowChanging" msprop:Generator_RowEvHandlerName="shop_side_dtlRowChangeEventHandler" msprop:Generator_RowDeletedName="shop_side_dtlRowDeleted" msprop:Generator_RowClassName="shop_side_dtlRow" msprop:Generator_UserTableName="shop_side_dtl" msprop:Generator_RowEvArgName="shop_side_dtlRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="side_group_name" msprop:Generator_ColumnVarNameInTable="columnside_group_name" msprop:Generator_ColumnPropNameInRow="side_group_name" msprop:Generator_ColumnPropNameInTable="side_group_nameColumn" msprop:Generator_UserColumnName="side_group_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

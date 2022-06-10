@@ -1,0 +1,153 @@
+D:\C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+D:\C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+D:\C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
+D:\C#\FZ_POS - 複製\FZ_POS\bin\Debug\FZ_POS.exe.config
+D:\C#\FZ_POS - 複製\FZ_POS\bin\Debug\FZ_POS.exe
+D:\C#\FZ_POS - 複製\FZ_POS\bin\Debug\FZ_POS.pdb
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.FZ_EAT.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.exe
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.pdb
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+D:\C#\FZ_POS - 複製\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+D:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+D:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+D:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+D:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csprojAssemblyReference.cache
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
+C:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+C:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+C:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShopMenu.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShop.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormSideGroup.resources
+E:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+E:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+E:\!!C#\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShop.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShopMenu.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormSideGroup.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.ucSideLabel.resources
+E:\!!C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShop.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShopMenu.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormSideGroup.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.ucSideLabel.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+D:\C#\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormPay.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCusHistory.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormPay.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.ucSideLabel.resources
+C:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCusCart.resources
+D:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+D:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+D:\rt\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCusHistory.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormPay.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShop.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShopMenu.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormSideGroup.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.ucSideLabel.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCusCart.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+D:\rt\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
+D:\rt-資策會\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe.config
+D:\rt-資策會\FZ_POS\FZ_POS\bin\Debug\FZ_POS.exe
+D:\rt-資策會\FZ_POS\FZ_POS\bin\Debug\FZ_POS.pdb
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.AssemblyReference.cache
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Form1.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormAdd.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCusHistory.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormLogin.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormCustomer.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormPay.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShop.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormShopMenu.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.FormSideGroup.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.Properties.Resources.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.ucSideLabel.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCreateAccount.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlCusCart.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlLogin.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlAdd.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlMealMenu.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.UserControlOrderList.resources
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.GenerateResource.cache
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.csproj.CoreCompileInputs.cache
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.exe
+D:\rt-資策會\FZ_POS\FZ_POS\obj\Debug\FZ_POS.pdb
